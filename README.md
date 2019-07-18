@@ -10,15 +10,15 @@ this Repo contains my work while learning cs50 course
 - Searching Algorithms 
   + Linear Search
 - Problem Set 1
-  +Cash Coins 
-  +Mario Triangle
+  + Cash Coins 
+  + Mario Triangle
 - Problem Set 2
-  +Caesar Algorithm
-  +vigenere Algorithm
+  + Caesar Algorithm
+  + vigenere Algorithm
 - Problem Set 3
 - Problem Set 4
 - Problem Set 5
-  +HTML & CSS Form with Audio,Video Player    
+  + HTML & CSS Form with Audio,Video Player    
   
 ---
 ## Run
