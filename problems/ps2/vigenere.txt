@@ -1,0 +1,9 @@
+define alpha array named abc
+check if (the key is smaller than entered message) then
+    repeate the key untile get a proper length
+loop on msg
+    {
+    call search method to get order of p
+    call search method to get order of k
+    apply this relation c = ( p + k )%26
+    }

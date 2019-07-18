@@ -2,13 +2,22 @@
 this Repo contains my work while learning cs50 course 
 
 ## Contents 
-- Ceaser Algorithm
+- Improved Caesar Algorithm
 - Sorting Algorithms 
   + Buble sort
   + Selection sort
 - Searching Algorithms 
   + Linear Search
-  
+- Problem Set 1
+  +Cash Coins 
+  +Mario Triangle
+- Problem Set 2
+  +Caesar Algorithm
+  +vigenere Algorithm
+- Problem Set 3
+- Problem Set 4
+- Problem Set 5
+  +HTML & CSS Form with Audio,Video Player    
   
 ---
 ## Run
@@ -27,5 +36,15 @@ this Repo contains my work while learning cs50 course
 ### Linear Search
   ![Captusdaewadwre](https://user-images.githubusercontent.com/49106965/60918897-41b1e280-a249-11e9-9f26-ec1eebf65fd3.JPG)
 
+### Problem Set 1 
+  ![cash](https://user-images.githubusercontent.com/49106965/61474125-c1703900-a93c-11e9-91de-a2d53697e817.JPG)
+  ![mario](https://user-images.githubusercontent.com/49106965/61474516-ace07080-a93d-11e9-8d05-01694145ea12.JPG)
   
+### Problem Set 2
+  ![caesar](https://user-images.githubusercontent.com/49106965/61474594-d7322e00-a93d-11e9-981d-90a569862b40.JPG)
+  ![vig](https://user-images.githubusercontent.com/49106965/61474689-fd57ce00-a93d-11e9-84e8-289742903d9f.JPG)
+ 
+### Problem Set 5
+  ![form](https://user-images.githubusercontent.com/49106965/61475034-c59d5600-a93e-11e9-81dc-1daa2d84ba48.JPG)
+
 ---

@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+
+}
+
+form {
+  color: white;
+}
+
+input{
+  font-size: 13px;
+  color: gray;
+}

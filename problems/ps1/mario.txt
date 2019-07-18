@@ -1,0 +1,12 @@
+// to draw we need 2 counters i,j  i==> count rows , j==>count columns 
+check if height +ve then invoke draw method 
+    draw: neasted loop using i,j 
+    {
+        { 
+            if i th grater than or equals j th then 
+                 print "#"
+            else   
+                 print " "
+         }
+         print "new line" at end of inner loop 
+     }
